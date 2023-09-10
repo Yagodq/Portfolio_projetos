@@ -8,14 +8,10 @@ Nele, você vai encontrar:
 * Projetos de Ciência de Dados.
 * Contatos.
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yagodq.github.io/Portfolio_projetos/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yagodutra/)
+🔗 Links
+Acesse o Portfólio de Projetos: https://yagodq.github.io/Portfolio_projetos/
 
-
-
-## Apêndice
-
+-----------------------------------------------
 
 Editorial by HTML5 UP
 html5up.net | @ajlkn
